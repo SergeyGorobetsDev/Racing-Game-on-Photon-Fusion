@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1632770514ce954795ce5386b61d0eb, type: 3}
+  m_Name: Car-2-spoiler-2-config
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: e1758238d89cf1f45b8652ba9f7446c9, type: 3}
+  spoilerModel: {fileID: 919132149155446097, guid: aefd6a892a98c4e43abe39941e3e7d4d, type: 3}

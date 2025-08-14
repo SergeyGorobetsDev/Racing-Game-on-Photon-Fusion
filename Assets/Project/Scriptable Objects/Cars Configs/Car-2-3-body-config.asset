@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffc85679556a6144580cae2efb277968, type: 3}
+  m_Name: Car-2-3-body-config
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 3a2b4eb28188b314ba3921d0ec9f6990, type: 3}
+  bodyModel: {fileID: 919132149155446097, guid: f8d7ba96b3784944babdd2b25b83889d, type: 3}

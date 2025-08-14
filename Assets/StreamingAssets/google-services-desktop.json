@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137855822896",
+    "project_id": "photon-race-game",
+    "storage_bucket": "photon-race-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137855822896:android:0efc527c6a205f0d5791f5",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.eWay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6twIWXvaGPpGA9lgeUif9faDVKAw4Xgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

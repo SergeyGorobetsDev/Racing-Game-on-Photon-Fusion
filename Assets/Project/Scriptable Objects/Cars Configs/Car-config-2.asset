@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d41b2b36d8b32284c98707baeb0e1abb, type: 3}
+  m_Name: Car-config-2
+  m_EditorClassIdentifier: 
+  name: Car 2
+  id: 1
+  icon: {fileID: 21300000, guid: 3a2b4eb28188b314ba3921d0ec9f6990, type: 3}
+  wheelRotateSpeed: 0
+  wheelSteeringAngle: 0
+  wheelAcceleration: 0
+  wheelMaxSpeed: 0
+  breakPower: 0
+  carEntity: {fileID: 843321371536108197, guid: 6e6170b83b0e0444b95eb58e51414be4, type: 3}
+  bodyConfigs:
+  - {fileID: 11400000, guid: 03e40b2a4a5f21f4084c7498bdad6194, type: 2}
+  - {fileID: 11400000, guid: e3051a76823470c45a5ea1e75f36b918, type: 2}
+  - {fileID: 11400000, guid: c8ca102b442ce7a47aad2e386ca1f773, type: 2}
+  wheelConfig:
+  - {fileID: 11400000, guid: f2a2bd30bc16a144091be2c41686943d, type: 2}
+  - {fileID: 11400000, guid: 68b60cc3f8cb2aa4ca89890bc11cc8e9, type: 2}
+  - {fileID: 11400000, guid: 858b8d3a35ea3c44abfb6a728270831d, type: 2}
+  spoilerConfig:
+  - {fileID: 11400000, guid: 81b9294a889f44b47b0b0aae33b040a3, type: 2}

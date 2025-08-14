@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b53a9da1cb35be446819b7d794861ec5, type: 3}
+  m_Name: Car-2-wheel-3-config
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: e91b7ec09f1ac764794e80815c004666, type: 3}
+  wheelsModels:
+  - <WheelType>k__BackingField: 1
+    <WheelModel>k__BackingField: {fileID: 919132149155446097, guid: 05157e4e7da5bd1438e9a53673d5eb2f, type: 3}
+  - <WheelType>k__BackingField: 2
+    <WheelModel>k__BackingField: {fileID: 919132149155446097, guid: 53898d55515908e4a94763029bb9eb8b, type: 3}
