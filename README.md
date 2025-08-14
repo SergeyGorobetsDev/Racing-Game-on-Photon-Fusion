@@ -1,4 +1,4 @@
-# Cart
+# Car Racing game
 
 # Setup
  - Firebase Setup (This guide explains how to set up Firebase in a Unity project. Since Firebase SDK files and configs are excluded from Git (via .gitignore), follow these steps to configure Firebase properly.)
