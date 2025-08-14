@@ -1,6 +1,6 @@
 # Car Racing game
 
-# Setup
+# 🔎 Setup
  - Firebase Setup (This guide explains how to set up Firebase in a Unity project. Since Firebase SDK files and configs are excluded from Git (via .gitignore), follow these steps to configure Firebase properly.)
    - 🚀 Firebase Setup Steps ▼
       - ► Add Firebase to Your Unity Project
@@ -17,7 +17,7 @@
         - ► Download google-services.json
       - Place google-services.json in: Assets/Plugins/Android/
 
-# Technologies
+# 🔧Technologies
 
 # 🌟 About
 ## In Unity Editor start play from LAUNCH scene.
