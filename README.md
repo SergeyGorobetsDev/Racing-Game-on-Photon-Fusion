@@ -18,6 +18,9 @@
       - Place google-services.json in: Assets/Plugins/Android/
 
 # 🔧Technologies
+🔸 Unity 6000.0.47f1
+🔹 Photon Fusion
+🔸 Firebase (Firestore)
 
 # 🌟 About
 🔸 In Unity Editor start play from LAUNCH scene.
