@@ -17,4 +17,7 @@
         - ► Download google-services.json
       - Place google-services.json in: Assets/Plugins/Android/
 
-     # Technologies
+# Technologies
+
+# 🌟 About
+## In Unity Editor start play from LAUNCH scene.
